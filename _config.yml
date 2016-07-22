@@ -2,6 +2,7 @@ name: Critical Path
 favicon: null
 layout_spectrum: 0.35355392773635685
 typography_spectrum: 0.5549003332853317
+title: Critical path
 cta:
   domain: null
   bucket: null
