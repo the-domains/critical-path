@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Critical path]]></title>
+        <description><![CDATA[Critical path]]></description>
+        <link>https://thegrid.ai/critical-path/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Aug 2016 14:49:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/critical-path/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[There will be a village on the Moon by 2030]]></title>
+            <description><![CDATA[<article><h1>There will be a village on the Moon by 2030</h1><p>‘There will be a village on the Moon by 2030’ - news.com.au</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c80b253c721cc088dd12974d787878f5449d9c8c.jpg"></article>]]></description>
+            <link>urn:uuid:fabab7ac-7bff-4bb4-bddf-aa57d43560ef</link>
+            <guid isPermaLink="false">6feb20f6-1774-49f1-9089-ee1fa66fdd19</guid>
+            <pubDate>Thu, 18 Aug 2016 14:48:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Critical Path is cool.</p>]]></description>
+            <link>https://thegrid.ai/critical-path/critical-path-is-cool/index.html</link>
+            <guid isPermaLink="false">7fab9661-7ed2-4b86-a964-fbbea7882a4a</guid>
+            <pubDate>Thu, 18 Aug 2016 14:48:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
