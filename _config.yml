@@ -1,20 +1,4 @@
-name: Critical Path
-favicon: null
-layout_spectrum: 0.35355392773635685
 typography_spectrum: 0.5549003332853317
-title: Critical path
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -26,4 +10,20 @@ color:
   lightness: 0.8920354628935456
   saturation: 0.4690783906262368
   rhythmicContrast: 0.5853451744187623
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.35355392773635685
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Critical Path
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Critical Path
 purpose: []
